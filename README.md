@@ -32,3 +32,6 @@ This WebApp Project was designed to build, secure, and protect a web application
 
 4.[Azure Front Door Rule
 ](https://github.com/Adamgzlez/WebApp-Project/blob/main/Screen%20Shot%202023-03-30%20at%209.39.49%20PM.png)
+
+5.[WAF Rule
+](https://github.com/Adamgzlez/WebApp-Project/blob/main/Screen%20Shot%202023-03-30%20at%209.42.50%20PM.png)
