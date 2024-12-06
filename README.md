@@ -21,7 +21,7 @@ This WebApp Project was designed to build, secure, and protect a web application
 
 ## Steps
 
-1. My web App creation, editing, and building.
+1. My Web App Creation, Editing, and Building.
 
 [Web App page 1
 ](https://github.com/Adamgzlez/WebApp-Project/blob/main/Screen%20Shot%202023-04-02%20at%2011.30.01%20PM.png)
@@ -32,7 +32,7 @@ This WebApp Project was designed to build, secure, and protect a web application
 [Web App page 3
 ](https://github.com/Adamgzlez/WebApp-Project/blob/main/Screen%20Shot%202023-03-30%20at%2010.07.25%20PM.png)
 
-2. Using Nslookup on my website to find out where my website is from and what ip address it has been given on mircosoft azure.
+2. Using Nslookup on my website to find out where my website is from and what ip address it has been given on Mircosoft Azure.
 
 [Nslookup on Domain
 ](https://github.com/Adamgzlez/WebApp-Project/blob/main/Screen%20Shot%202023-03-30%20at%2010.36.58%20PM.png)
