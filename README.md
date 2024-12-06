@@ -14,7 +14,7 @@ This WebApp Project was designed to build, secure, and protect a web application
 ### Tools Used
 
 - Mircosoft Azure to make website.
-- Nslookup on my own domain.
+- Nslookup on my own domain to see ip and where its from. 
 - Creating a free domain for my website.
 - A custom WAF rule to protect my website.
 - Azure Front Door rule to provide secure and reaible access to web content.
